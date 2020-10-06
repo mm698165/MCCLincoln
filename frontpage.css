@@ -1,0 +1,66 @@
+body {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    background: url('images/kidbackground.jpg') no-repeat center center fixed; 
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+}
+
+h4, h2 {
+    display: inline;
+    position: relative;
+    font: 200px Helvetica, sans-serif;
+    letter-spacing: -5px;
+    color: #900000; 
+}
+
+ol {
+    list-style: none;
+}
+
+.myButton {
+	box-shadow: 3px 4px 0px 0px #8a2a21;
+	background:linear-gradient(to bottom, #c62d1f 5%, #f24437 100%);
+	background-color:#c62d1f;
+	border-radius:18px;
+	border:1px solid #d02718;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:25px;
+	font-weight:bold;
+	padding:12px 39px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #810e05;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #f24437 5%, #c62d1f 100%);
+	background-color:#f24437;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+/*a {
+    text-decoration: none;
+    font-size: 50pt;
+}
+
+a:link {
+    color: #900000;
+}
+
+a:visited {
+    color: #900000;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}*/

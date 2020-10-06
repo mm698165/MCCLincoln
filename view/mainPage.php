@@ -3,11 +3,13 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Template</title>
+        <title>MathWhiz</title>
         <link rel="stylesheet" type="text/css" href="main.css"/>
     </head>
     <body>
-        <h2>Template</h2>        
+        <h2>Did you hear about the mathematician who is afraid of negative numbers?</h2>
+
+        <h4>She’d stop at nothing to avoid them.</h4>        
         
         <a href="index.php?action=loginPage">Login/Register</a>
         <br>

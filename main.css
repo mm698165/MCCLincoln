@@ -1,16 +1,15 @@
 body {
-    background: #cccccc;
-    width: 80%;
+    width: 100%;
     margin: auto;
     text-align: center;
+    background: url('images/mainbackground.jpg') no-repeat center center fixed; 
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
 }
 
 h4, h2 {
     font-family: Helvetica,Arial,AppleGothic,sans-serif; 
-}
-
-body {
-    font-family: sans-serif;
 }
 
 ol {
