@@ -1,0 +1,41 @@
+assessmentType
+	assessmentTypeID
+	assessmentTypeName
+question
+	questionID
+	difficulty
+	category
+	question
+	answser
+assessment
+	assessmentID
+	assessmentTypeID
+	studentID
+	questionsCorrect
+	questionsWrong
+	totalScore
+	time
+	date
+	level
+user
+
+Assessment
+	getScore(studentID,assessmentID)
+
+Test
+	passFail
+	changeLevel(studentID,level)
+
+Quizz
+	passFail
+
+Drill
+
+	
+Student
+	userRole
+	level
+
+#goals:
+log in = DONE!
+take a quiz = finish up user story by Monday
